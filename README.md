@@ -1,6 +1,6 @@
 # Results Summary
 
-This is a simple project to practice some basic concepts of HTML and CSS.
+This is a project to practice HTML and CSS.
 
 ### The challenge
 
