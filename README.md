@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Naveed89-tech/summary_result)
-- Live Site URL: [Results summary](https://resultsummarytotal.netlify.app/)
+- Solution URL: [Github](https://github.com/Naveed89-tech/new_agency_home_page)
+- Live Site URL: [News Agency](https://newsagency-home.netlify.app/)
 - Portfolio_Website: [Portfolio_Website](https://naveedtechs.netlify.app/)
 
 ## My process
