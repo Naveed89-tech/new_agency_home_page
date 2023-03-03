@@ -12,8 +12,8 @@ Users should be able to:
 ### What i have learnt?
 
 - During Developing this project,the most difficult situation arise when i start using CSS Grids, variable and custom media queries.
-  -For using grids, it was difficult to use minimum css custom properties as well as responsive ones.
-  -Custom queries done with custom coding and most common device sizes. The project support upto 280px device size.
+- For using grids, it was difficult to use minimum css custom properties as well as responsive ones.
+- Custom queries done with custom coding and most common device sizes. The project support upto 280px device size.
 
 ### Screenshot
 
@@ -30,7 +30,12 @@ Users should be able to:
 ### Built with
 
 - CSS custom properties
+- Flex-box
+- Grids
+- Variables
+- media queries
 - HTML
+- font awesome
 
 ## Author
 
